@@ -7,7 +7,7 @@ using a local API and building out the frontend for our app, Flatacuties.
 
 Use this gif as an example of how the app should work.
 
-![Demo](code-challenge/assets/demo.gif)
+![Demo](https://github.com/Davincii254/Flatacutties/blob/cc47f3745c38ecaf211d4492696c3b16c68bc101/assets/demo.gif)
 
 > To view in VSCode, right click on the README.md file and select "Open Preview".
 
